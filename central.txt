@@ -1,5 +1,0 @@
-E01;Pasto Centro;OPERATIVE;0
-E02;Pasto Norte;OPERATIVE;1
-E03;Pasto Sur;OPERATIVE;2
-E04;Pasto Centro;OPERATIVE;0
-E05;Pasto Norte;OPERATIVE;0
